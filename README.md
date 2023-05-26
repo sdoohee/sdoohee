@@ -16,9 +16,8 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   <p align="">
-  <h3 align="">😻To you😻</h3>
-</p>
-
+    <h3 align="">😻To you😻</h3>
+  </p>
 <p align="">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EC7965&background=FFABC700&width=435&lines=grow+with+various+opinions+love+ya" alt="Typing SVG" /></a>
 </p>
@@ -27,12 +26,14 @@
 
 
 ## ⚙️ Internship ⚙️
+
 **AIM Lab.**
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 |May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.<br>[AIM Lab. SITE](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
 |July.2022 ~ Sep.2022|Seminar|Seminar about AI|Study "혼자 공부하는 머신러닝+딥러닝"| 
   
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/s_jihyun88/">
