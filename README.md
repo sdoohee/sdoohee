@@ -31,7 +31,7 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/s_jihuin88/">
+    <a href="https://www.instagram.com/s_jihyun88/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:sjhrico188@gamil.com">
