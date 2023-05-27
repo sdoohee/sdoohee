@@ -33,6 +33,21 @@
 |May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.<br>[AIM Lab. SITE](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
 |July.2022 ~ Sep.2022|Seminar|Seminar about AI|Study "혼자 공부하는 머신러닝+딥러닝"| 
   
+## 👨‍🏫 Teaching Experience 👨‍🏫
+|     *Date*      |         *Class*   |        *Details*      |
+|:-------------:|:-------------------:|:---------------------:|
+|March.2023 ~ | Math&English | C.E. 2nd grade class |
+
+## 🏆️ Competitions 🏆️
+|    *Prize*    |     *Platform*      |         *Name*   |        *Type/Team/link*      |
+|:-------------:|:-------------------:|:---------------------:|:------------:|
+|🥇 192 | HSK한국사무국 | HSK 4급 | certificate |
+|🥇 197 | HSK한국사무국 | HSK 5급 | certificate | 
+|🥇 195 | HSK한국사무국 | HSK 6급 | certificate | 
+|🥇 Completion| 아이들과미래재단X하나금융 | 같이에듀 2기 멘토 | Mentoring | 
+|🥉 1/192 (top 1%)| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | AIM Lab.|  https://dacon.io/competitions/official/235902/leaderboard|
+|🥇 한밭대학교 총장상| 나눔과 기술 | 2022 창의설계 온라인 경진대회 | compete/AIM Lab./http://joyinstech.iptime.org:7788/|
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
