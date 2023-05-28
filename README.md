@@ -13,7 +13,7 @@ My goal is to give good influence to society.<br/>
 Have a day full of Happy today.
 <br/>
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/Development-8c3b3c1e5b4a4af994bfc5e73784887b?pvs=4">
+    <a href="https://verbena-road-5d9.notion.site/Development-8c3b3c1e5b4a4af994bfc5e73784887b">
       <br/>
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
