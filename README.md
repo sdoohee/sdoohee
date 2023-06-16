@@ -6,16 +6,16 @@
 ---
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsdoohee&count_bg=%23F6A8EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false"/></a>
-
-<h3> Jihyun's log 🥳</h3><br/>
-Hello, I'm Jihyun.<br/>
+<br/>Hello, I'm Jihyun.
 My goal is to give good influence to society.<br/>
-Have a day full of Happy today.
+Have a day full of Happy today.<br/>
 <br/>
 <div style="display:flex; flex-direction:row;">
     <a href="https://verbena-road-5d9.notion.site/Development-8c3b3c1e5b4a4af994bfc5e73784887b">
-      <br/>
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
+    <a href="https://rico-t.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-important?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 <br/><br/>
 
@@ -51,6 +51,7 @@ Have a day full of Happy today.
     <a href="mailto:sjhrico188@gamil.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+  
 </div><br>
    
 ## 🧞‍♂️ I've used STACKS
